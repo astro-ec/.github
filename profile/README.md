@@ -1,4 +1,4 @@
-![OEAA logo](./images/nwlg.png)
+<img src="./images/nwlg.png" alt="OEAA logo" width="200"/>
 
 # Olimpiadas Ecuatorianas de Astronomía y Astrofísica
 
