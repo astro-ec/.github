@@ -1,4 +1,4 @@
-<img src="./images/nwlg.png" alt="OEAA logo" width="200"/>
+<img src="./images/nwlg.png" alt="OEAA logo" width="200" class="center"/>
 
 # Olimpiadas Ecuatorianas de Astronomía y Astrofísica
 
