@@ -1,5 +1,5 @@
-<img src="./images/nwlg.png" alt="OEAA logo" width="200" class="center"/>
-
-# Olimpiadas Ecuatorianas de Astronomía y Astrofísica
-
-## Olimpiada Nacional y participación en Olimpiadas Internacionales (OLAA - IOAA)
+<br />
+<div align="center">
+<a href="https://astro-ec.github.io/">
+<img src="images/nwlg.png" alt="Logo" width=200>
+</a>
